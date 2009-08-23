@@ -1,0 +1,2 @@
+content     handcar    chrome/content/ xpcnativewrappers=no
+overlay chrome://firebug/content/firebugOverlay.xul chrome://handcar/content/handcar.xul
